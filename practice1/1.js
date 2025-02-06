@@ -1,3 +1,4 @@
+// 세 수 중 가장 작은 값을 출력력
 const getMin = (a, b, c) => {
     let min = a;
     if (b < min) {
